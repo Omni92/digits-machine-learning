@@ -1,5 +1,5 @@
 # Технології BUSINESS INTELLIGENCE
-# Аналіз рукописних цифр. Використання бібліотеки Scikit-learn 
+Аналіз рукописних цифр. Використання бібліотеки Scikit-learn 
 
 ## Requirements
 * cv2
